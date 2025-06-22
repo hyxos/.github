@@ -32,9 +32,6 @@ We create open-source tools, immersive games, and interactive experiences that t
 - **[Echo³](https://github.com/hyxos/echo3)**  
   (Planned) Audio-driven and sonification-based geometry visualization.
 
-- **[svg2png-wasm-rs](https://github.com/don-hicks/svg2png-wasm-rs)**  
-  SVG to PNG export utility (WASM/Rust), used across the Shard³ ecosystem.
-
 ---
 
 ## 💡 What We Value
