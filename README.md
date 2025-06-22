@@ -36,7 +36,7 @@ We create open-source tools, immersive games, and interactive experiences that t
 
 ## 💡 What We Value
 
-- **Open Source:** All our code and tools are public and collaborative.
+- **Open Source:** We strive to make as much of our code and tools public and collaborative as possible.
 - **Creative Play:** We believe art, math, and entertainment are deeply connected.
 - **Technical Excellence:** We use modern tools—Next.js, TypeScript, Rust, WASM, SVG, Supabase, Vercel.
 - **Community:** We welcome contributors from all backgrounds.
